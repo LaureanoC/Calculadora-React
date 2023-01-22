@@ -1,7 +1,7 @@
 {
   "name": "calculadora",
-  "homepage":"https://LaureanoC.github.io/Calculadora-React",
   "version": "0.1.0",
+  "homepage":"https://LaureanoC.github.io/Calculadora-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
